@@ -1,4 +1,4 @@
-# Perspective Mod v4
+# Perspective Mod v4 [HYPIXEL]
 
 A remake of [Perspective Mod v3 by canelex](https://github.com/Canelex/PerspectiveMod) with bug fixes and additional functionality
 
