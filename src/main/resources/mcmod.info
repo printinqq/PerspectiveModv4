@@ -1,13 +1,13 @@
 [
 {
-  "modid": "djperspectivemod",
-  "name": "Perspective Mod v4",
+  "modid": "patcher",
+  "name": "hypixel perspectivemod",
   "description": "",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["DJtheRedstoner"],
+  "authorList": ["DJtheRedstoner, j_1770, bucketing"],
   "credits": "",
   "logoFile": "",
   "screenshots": [],
